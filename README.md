@@ -14,8 +14,7 @@ Researchers often face "formatting contamination" when copying and pasting data 
 
 * SwiftUI Native: High performance with a minimalist, low-friction UI that respects macOS design patterns.
 
-👨‍🔬 About the Author
-Developed by AA Ibrahim, a researcher and MPhil student. This project was born out of a need for a more efficient, "distraction-free" workspace for academic writing and data management.
+
 
 ## Technical Implementation
 * Language: Swift 5.10+
@@ -25,3 +24,7 @@ Developed by AA Ibrahim, a researcher and MPhil student. This project was born o
 * Architecture: Modular view decomposition to ensure high performance and maintainable code.
 
 * Platform: macOS 14.0 (Sonoma) and later.
+
+
+## 👨‍🔬 About the Author
+Developed by AA Ibrahim, a researcher and MPhil student. This project was born out of a need for a more efficient, "distraction-free" workspace for academic writing and data management.
