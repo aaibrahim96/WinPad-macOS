@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/winpad_256.png" width="200" alt="WinPad Logo">
+  <img src="WinPad/img/winpad_256.png" width="200" alt="WinPad Logo">
 </p>
 
 
