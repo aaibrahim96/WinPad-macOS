@@ -28,7 +28,7 @@ Researchers often face "formatting contamination" when copying and pasting data 
 ## 🚀 Installation & Setup
 You can find the ready-to-use application in the WinPad Installer folder.
 
-### Option 1: The Easy Way (Recommended)
+#### Option 1: The Easy Way (Recommended)
    1. Navigate to the WinPad Installer folder.
 
    2. Open WinPad_v1.0.dmg.
@@ -37,7 +37,7 @@ You can find the ready-to-use application in the WinPad Installer folder.
 
    4. You can now launch WinPad from your Launchpad or by pressing Cmd + Space and typing "WinPad."
 
-### Option 2: Direct Run
+#### Option 2: Direct Run
    1. Open the WinPad Installer folder.
 
    2. Double-click WinPad.app to run the software immediately.
