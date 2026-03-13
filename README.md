@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="winpad_256.png" width="200" alt="WinPad Logo">
+</p>
+
+
+
 # WinPad for macOS
 WinPad is a lightweight, native macOS plain-text editor built with SwiftUI. It was designed specifically to bridge the gap between the simplicity of Windows Notepad and the power of a modern, multi-tabbed research environment.
 ## The Problem
