@@ -25,6 +25,25 @@ Researchers often face "formatting contamination" when copying and pasting data 
 
 * **Platform:** macOS 14.0 (Sonoma) and later.
 
+## 🚀 Installation & Setup
+You can find the ready-to-use application in the WinPad Installer folder.
+
+### Option 1: The Easy Way (Recommended)
+   1. Navigate to the WinPad Installer folder.
+
+   2. Open WinPad_v1.0.dmg.
+
+   3. Drag the WinPad icon into your Applications folder.
+
+   4. You can now launch WinPad from your Launchpad or by pressing Cmd + Space and typing "WinPad."
+
+### Option 2: Direct Run
+   1. Open the WinPad Installer folder.
+
+   2. Double-click WinPad.app to run the software immediately.
+
+      * Note: On the first launch, you may need to Right-Click > Open to bypass macOS security settings since this is a custom-built tool.
+
 
 ## 👨‍🔬 About the Author
 Developed by AA Ibrahim, a researcher and MPhil student. This project was born out of a need for a more efficient, "distraction-free" workspace for academic writing and data management.
