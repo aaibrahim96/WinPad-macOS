@@ -42,7 +42,7 @@ You can find the ready-to-use application in the WinPad Installer folder.
 
    2. Double-click WinPad.app to run the software immediately.
 
-      * Note: On the first launch, you may need to Right-Click > Open to bypass macOS security settings since this is a custom-built tool.
+      * _Note: On the first launch, you may need to Right-Click > Open to bypass macOS security settings since this is a custom-built tool._
 
 
 ## 👨‍🔬 About the Author
