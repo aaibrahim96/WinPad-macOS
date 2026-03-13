@@ -13,3 +13,13 @@ Researchers often face "formatting contamination" when copying and pasting data 
 * Clipboard Laundry: Automatically strips formatting from any text pasted into the editor.
 
 * SwiftUI Native: High performance with a minimalist, low-friction UI that respects macOS design patterns.
+
+
+## Technical Implementation
+* Language: Swift 5.10+
+
+* Framework: SwiftUI
+
+* Architecture: Modular view decomposition to ensure high performance and maintainable code.
+
+* Platform: macOS 14.0 (Sonoma) and later.
